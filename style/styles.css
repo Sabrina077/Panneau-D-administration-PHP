@@ -1,0 +1,36 @@
+header{
+    width: 70vw;
+}
+
+.headerP{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+}
+
+.onglet{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding: 0;
+}
+
+.formModif{
+    display: flex;
+    flex-direction: column;
+}
+.nav-box {
+    background-color: #e9e6e6; 
+    padding: 10px; 
+    border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
